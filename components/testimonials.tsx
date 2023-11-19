@@ -12,8 +12,8 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Don't take our word for it</h2>
-            <p className="text-xl text-gray-400">Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.</p>
+            <h2 className="h2 mb-4">Feedback dos clientes</h2>
+            <p className="text-xl text-gray-400">Na Constellation Corretora de Seguros, acreditamos que cada cliente é um colaborador vital na nossa jornada de aprimoramento contínuo.</p>
           </div>
 
           {/* Testimonials */}
@@ -31,10 +31,9 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-gray-400 grow">— O que dizer dessa empresa...sou cliente desde 2010 talvez até alguns anos antes.
 Desde o primeiro contato, sempre fui bem atendido pelo Corretor Mauro. Pense em um profissional educado, solicito e sempre bem atencioso..
-Comecei a fazer seguro com ele de um carro velho que eu tinha, os tempos foram passando, as condições melhorando, onde comprei outro carro, fiz seguro de novo, comprei uma moto, fiz seguro e assim foi indo até  os dias de hoje.
-Hoje eu tenho seguro do meu celular, notebook, bicicleta, dos carros e da casa. Graças a Constellation eu tenho seguro de tudo que preciso. </blockquote>
+ </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Francis Evaristo</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Francis Evaristo</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" >Advogado</a>
               </div>
             </div>
 
@@ -48,9 +47,9 @@ Hoje eu tenho seguro do meu celular, notebook, bicicleta, dos carros e da casa. 
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— Sou o "Portuga", conheço a Constellation há mais de 20 anos, quando ainda trabalhavam como pessoa física, fui um dos primeiros clientes. Uma empresa idônea e parceira, equipe sempre disponível para auxiliar em todos os processos.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Clodemir Baroto</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" >Mecânico</a>
               </div>
             </div>
 
@@ -64,9 +63,9 @@ Hoje eu tenho seguro do meu celular, notebook, bicicleta, dos carros e da casa. 
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— Tenho plano de saúde e seguro automóvel com a Constellation a mais de 5 anos, não troco por nada, atendimento rápido quando precisei de suporte! Atenciosos e pacientes para explicar  sobre cada seguro e coberturas que se encaixavam com o que eu buscava. </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Carla Assis</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" >Psicóloga</a>
               </div>
             </div>
 

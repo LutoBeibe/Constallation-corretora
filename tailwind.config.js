@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  
   content: [
     './app/**/*.{js,ts,jsx,tsx}',
     './pages/**/*.{js,ts,jsx,tsx}',
@@ -17,15 +18,15 @@ module.exports = {
           600: '#55595F',
           700: '#33363A',
           800: '#25282C',
-          900: '#151719',
+          900: '#000622', //Main #151719
         },
         purple: {
-          100: '#F4F4FF',
+          100: '#856a00',
           200: '#E2E1FF',
           300: '#CBCCFF',
           400: '#ABABFF',
           500: '#8D8DFF',
-          600: '#5D5DFF',
+          600: '#CCA300', //main #5D5DFF
           700: '#4B4ACF',
           800: '#38379C',
           900: '#262668',
@@ -74,4 +75,5 @@ module.exports = {
   plugins: [
     require('@tailwindcss/forms'),
   ],
+  
 }
