@@ -82,6 +82,13 @@ export default function Zigzag() {
                       <span>Colisão e proteção aos vidros</span>
                     </li>
                   </ul>
+                  <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
+                  <div className="flex items-left mb-6 mt-6  text-left">
+                    <button type="submit" className="inline-flex items-center h-10 px-20 text-indigo-100 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
+                      <span>Fazer Cotação</span>
+                    </button>
+                  </div>
+                  </a> 
                 </div>
               </div>
             </div>
@@ -120,6 +127,13 @@ export default function Zigzag() {
                       <span>Consultas Preventivas e internação</span>
                     </li>
                   </ul>
+                  <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
+                  <div className="flex items-left mb-6 mt-6  text-left">
+                    <button type="submit" className="inline-flex items-center h-10 px-20 text-indigo-100 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
+                      <span>Fazer Cotação</span>
+                    </button>
+                  </div>
+                  </a> 
                 </div>
               </div>            
             </div>
@@ -152,6 +166,13 @@ export default function Zigzag() {
                       <span>Cobertura contra roubo e furto</span>
                     </li>
                   </ul>
+                  <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
+                  <div className="flex items-left mb-6 mt-6  text-left">
+                    <button type="submit" className="inline-flex items-center h-10 px-20 text-indigo-100 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
+                      <span>Fazer Cotação</span>
+                    </button>
+                  </div>
+                  </a> 
                 </div>
               </div>
             </div>
@@ -190,6 +211,13 @@ export default function Zigzag() {
                       <span>Responsabilidade Civil</span>
                     </li>
                   </ul>
+                  <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
+                  <div className="flex items-left mb-6 mt-6  text-left">
+                    <button type="submit" className="inline-flex items-center h-10 px-20 text-indigo-100 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
+                      <span>Fazer Cotação</span>
+                    </button>
+                  </div>
+                  </a> 
                 </div>
               </div>            
             </div>
@@ -223,61 +251,77 @@ export default function Zigzag() {
                       <span>invalidez por acidente ou doença</span>
                     </li>
                   </ul>
+                  <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
+                  <div className="flex items-left mb-6 mt-6  text-left">
+                    <button type="submit" className="inline-flex items-center h-10 px-20 text-indigo-100 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
+                      <span>Fazer Cotação</span>
+                    </button>
+                  </div>
+                  </a>
                 </div>
-                
               </div>
             </div>
 
-
-
-
-
-
-
             <div className="grid grid-cols-3 gap-6">
             <div className="col-span-3"><h3 className="h3 mb-3 text-center ">Outros serviços</h3></div>
-            <div>
+              <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
+              <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage05} width={200} height={150} alt="Features 03" />
-              <p className="text-xl text-gray-400 mb-4 text-center">Condomínio</p>
+              <p className="text-xl text-gray-400 mb-4 text-center">Condomínio</p>    
               </div>
+              </a>
+              <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
               <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage07} width={200} height={150} alt="Features 03" />
               <p className="text-xl text-gray-400 mb-4 text-center">Financiamento</p>
               </div>
+              </a>
+              <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
               <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage09} width={200} height={150} alt="Features 03" />
               <p className="text-xl text-gray-400 mb-4 text-center">Seguro celular</p>
               </div>
+              </a>
+              <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
               <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage11} width={200} height={150} alt="Features 03" />
               <p className="text-xl text-gray-400 mb-4 text-center">Seguro fiança</p>
-            </div>
-            <div>
+              </div>
+              </a>
+              <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
+              <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage12} width={200} height={150} alt="Features 03" />
               <p className="text-xl text-gray-400 mb-4 text-center">Seguro pet</p>
             </div>
+            </a>
+            <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
             <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage13} width={200} height={150} alt="Features 03" />
               <p className="text-xl text-gray-400 mb-4 text-center">Seguro equipamentos portáteis</p>
             </div>
+            </a>
+            <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
             <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage14} width={200} height={150} alt="Features 03" />
               <p className="text-xl text-gray-400 max-w-full mx-auto md:max-w-none h-auto text-center">Seguro viagem</p>
             </div>
+            </a>
+            <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
             <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage15} width={200} height={150} alt="Features 03" />
-              <p className="text-xl text-gray-400 max-w-full mx-auto md:max-w-none h-auto text-center">Consórcio</p>
+              <p className="text-xl text-gray-400 max-w-full mx-auto md:max-w-none h-auto text-center">Consórcio</p>      
             </div>
+            </a>
+            <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
             <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage16} width={200} height={150} alt="Features 03" />
               <p className="text-xl text-gray-400 max-w-full mx-auto md:max-w-none h-auto text-center">Seguro bike</p>
             </div>
+            </a>
           </div>
-          
-          
 
           <div id= "contato" className="max-w-3xl mx-auto text-center ">
-            <h2 className="h2 mb-4">Nosso compromisso é proteger o que é mais valioso para você!</h2>
+            <h2 className="h2 mb-4">Seu sorriso é a nossa melhor apólice. Protegendo o que importa, sempre!</h2>
             <p className="text-xl text-gray-400">Se tiver dúvidas sobre nossos produtos ou serviços, estamos prontos para esclarecê-las.</p>
           </div>
           
@@ -302,21 +346,13 @@ export default function Zigzag() {
   <div className="flex items-start mb-6 text-center">
     <button type="submit" className=" inline-flex items-center h-10 px-5 text-indigo-100 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-center">
     <span>Enviar</span>
-    
+
     </button>
   </div> 
   {/* <button type="submit" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-150     sm:w-auto px-5 py-2.5  dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 mx-auto  ">Enviar</button> */}
 
   
 </form>
-
-        
-
-      
-           
-  
-      
-
           </div>
 
         </div>

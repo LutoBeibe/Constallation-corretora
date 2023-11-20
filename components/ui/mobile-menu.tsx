@@ -80,6 +80,14 @@ export default function MobileMenu() {
             Assistência 24h
             </Link>
           </li>
+          <li>
+            <Link
+              href="https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC"
+              className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-white bg-purple-600 hover:bg-purple-700 transition duration-150 ease-in-out" onClick={() => setMobileNavOpen(false)}
+            >
+              Fazer Cotação !
+            </Link>
+          </li>
         </ul>
       </nav>
     </div>
