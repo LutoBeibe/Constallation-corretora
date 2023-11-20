@@ -8,7 +8,7 @@
 
 ## Link para o projeto hospedado virtualmente:
 
- <a href="https://constellationcorretora.netlify.app/">Clique aqui!</a> <br>
+ <a href="https://projeto-02-semestre.vercel.app/">Clique aqui!</a> <br>
 
 ## Integrantes:
 - Cleiton Lima
