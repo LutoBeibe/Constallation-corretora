@@ -18,11 +18,11 @@ import FeatImage18 from '@/public/images/seguroresidencial.jpg'
 export default function Zigzag() {
   return (
     <section>
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 scroll-smooth">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="py-12 md:py-20 border-t border-gray-800">
 
           {/* Section header */}
-          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
+          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <div id= "historia"  className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4 text-center">Muito além de seguros</div>
             <h1 className="h2 mb-4 text-center">Nossa História</h1>
             {/* <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p> */}
@@ -267,19 +267,19 @@ export default function Zigzag() {
               <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
               <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage05} width={200} height={150} alt="Features 03" />
-              <p className="text-xl text-gray-400 mb-4 text-center">Condomínio</p>    
+              <p className="text-lg text-gray-400 mb-4 text-center">Condomínio</p>    
               </div>
               </a>
               <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
               <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage07} width={200} height={150} alt="Features 03" />
-              <p className="text-xl text-gray-400 mb-4 text-center">Financiamento</p>
+              <p className="text-lg text-gray-400 mb-4 text-center">Financiamento</p>
               </div>
               </a>
               <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
               <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage09} width={200} height={150} alt="Features 03" />
-              <p className="text-xl text-gray-400 mb-4 text-center">Seguro celular</p>
+              <p className="text-lg text-gray-400 mb-4 text-center">Seguro celular</p>
               </div>
               </a>
               <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
@@ -290,32 +290,32 @@ export default function Zigzag() {
               </a>
               <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
               <div>
+                <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage13} width={200} height={150} alt="Features 03" />
+                <p className="text-lg text-gray-400 mb-4 text-center">Seguro equipamentos portáteis</p>
+              </div>
+              </a>
+              <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
+              <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage12} width={200} height={150} alt="Features 03" />
-              <p className="text-xl text-gray-400 mb-4 text-center">Seguro pet</p>
-            </div>
-            </a>
-            <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
-            <div>
-              <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage13} width={200} height={150} alt="Features 03" />
-              <p className="text-xl text-gray-400 mb-4 text-center">Seguro equipamentos portáteis</p>
+              <p className="text-lg text-gray-400 mb-4 text-center">Seguro pet</p>
             </div>
             </a>
             <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
             <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage14} width={200} height={150} alt="Features 03" />
-              <p className="text-xl text-gray-400 max-w-full mx-auto md:max-w-none h-auto text-center">Seguro viagem</p>
+              <p className="text-lg text-gray-400 max-w-full mx-auto md:max-w-none h-auto text-center">Seguro viagem</p>
             </div>
             </a>
             <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
             <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage15} width={200} height={150} alt="Features 03" />
-              <p className="text-xl text-gray-400 max-w-full mx-auto md:max-w-none h-auto text-center">Consórcio</p>      
+              <p className="text-lg text-gray-400 max-w-full mx-auto md:max-w-none h-auto text-center">Consórcio</p>      
             </div>
             </a>
             <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
             <div>
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={FeatImage16} width={200} height={150} alt="Features 03" />
-              <p className="text-xl text-gray-400 max-w-full mx-auto md:max-w-none h-auto text-center">Seguro bike</p>
+              <p className="text-lg text-gray-400 max-w-full mx-auto md:max-w-none h-auto text-center">Seguro bike</p>
             </div>
             </a>
           </div>
@@ -329,19 +329,19 @@ export default function Zigzag() {
    <h1 className="h2 mb-4 text-center">Fale conosco ☎️</h1>
   <div className="mb-6 ">
     <label htmlFor="name" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white ">😊 Digite seu nome:</label>
-    <input type="name" id="name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block  p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500c w-96 " name="Nome" placeholder="Nome" required />
+    <input type="name" id="name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block  p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500c w-full " name="Nome" placeholder="Nome" required />
   </div>
   <div className="mb-6">
     <label htmlFor="email" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">✉️ Digite seu email: </label>
-    <input type="email" id="email" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-96 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" name="E-mail" placeholder="exemplo@email.com" required />
+    <input type="email" id="email" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 w-full" name="E-mail" placeholder="exemplo@email.com" required />
   </div>
   <div className="mb-6">
     <label htmlFor="number" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">📞 Digite seu telefone: </label>
-    <input type="tel" id="phone"  className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-96 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" name="Número" placeholder="(11) 99999-9999" required />
+    <input type="tel" id="phone"  className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 w-full" name="Número" placeholder="(11) 99999-9999" required />
   </div>
   <div className="mb-6">
   <label htmlFor="number" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">🤔 Digite sua duvida: </label>
-  <textarea id="message"  className="block p-2.5 w-96 text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" name="Duvida" placeholder="Gostaria de saber mais sobre seguros..."></textarea>
+  <textarea id="message"  className="block p-2.5 text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 w-full " name="Duvida" placeholder="Gostaria de saber mais sobre seguros..."></textarea>
   </div>
   <div className="flex items-start mb-6 text-center">
     <button type="submit" className=" inline-flex items-center h-10 px-5 text-indigo-100 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-center">
@@ -349,9 +349,6 @@ export default function Zigzag() {
 
     </button>
   </div> 
-  {/* <button type="submit" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-150     sm:w-auto px-5 py-2.5  dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 mx-auto  ">Enviar</button> */}
-
-  
 </form>
           </div>
 
