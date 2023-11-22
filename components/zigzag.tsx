@@ -325,7 +325,7 @@ export default function Zigzag() {
             <p className="text-xl text-gray-400">Se tiver dúvidas sobre nossos produtos ou serviços, estamos prontos para esclarecê-las.</p>
           </div>
           
-    <form  action="https://formsubmit.co/guilherme.amorim@edu.fecap.br" method="POST" className=" max-w-3xl mx-auto  pb-12 md:pb-20">              
+    <form  action="https://formsubmit.co/luto.beibe@gmail.com" method="POST" className=" max-w-3xl mx-auto  pb-12 md:pb-20">              
    <h1 className="h2 mb-4 text-center">Fale conosco ☎️</h1>
   <div className="mb-6 ">
     <label htmlFor="name" className="block mb-2 text-sm font-medium text-white ">😊 Digite seu nome:</label>
