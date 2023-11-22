@@ -25,17 +25,17 @@ export default function Header() {
           {/* Desktop navigation */}
           <nav className="hidden md:flex md:grow items-center  " >
           <div className="hidden lg:flex lg:gap-x-12 pl-5">
-            <a href="#historia" className="text-sm font-semibold leading-6 text-white ">Nossa História</a>
-            <a href="#seguro" className="text-sm font-semibold leading-6 text-white">Seguros</a>
-            <a href="#contato" className="text-sm font-semibold leading-6 text-white">Contato</a>
-            <a href="#assistencia-24h" className="text-sm font-semibold leading-6 text-white"> Assistência 24h</a>
+            <a href="#historia" className="text-sm font-semibold leading-6 text-white hover:text-gray-300 ">Nossa História</a>
+            <a href="#seguro" className="text-sm font-semibold leading-6 text-white hover:text-gray-300">Seguros</a>
+            <a href="#contato" className="text-sm font-semibold leading-6 text-white hover:text-gray-300">Contato</a>
+            <a href="#assistencia-24h" className="text-sm font-semibold leading-6 text-white hover:text-gray-300"> Assistência 24h</a>
           </div>  
             {/* Desktop sign in links */}
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link
                   href="https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC"
-                  className="btn-sm text-white bg-purple-600 hover:bg-purple-100 ml-3"
+                  className="btn-sm text-gray-900 bg-purple-600 hover:bg-purple-100 ml-3"
                 >
                   Faça sua cotação
                 </Link>

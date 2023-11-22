@@ -84,7 +84,7 @@ export default function Zigzag() {
                   </ul>
                   <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
                   <div className="flex items-left mb-6 mt-6  text-left">
-                    <button type="submit" className="inline-flex items-center h-10 px-20 text-indigo-100 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
+                    <button type="submit" className="inline-flex items-center h-10 px-20 text-gray-900   transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
                       <span>Fazer Cotação</span>
                     </button>
                   </div>
@@ -129,7 +129,7 @@ export default function Zigzag() {
                   </ul>
                   <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
                   <div className="flex items-left mb-6 mt-6  text-left">
-                    <button type="submit" className="inline-flex items-center h-10 px-20 text-indigo-100 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
+                    <button type="submit" className="inline-flex items-center h-10 px-20 text-gray-900 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
                       <span>Fazer Cotação</span>
                     </button>
                   </div>
@@ -168,7 +168,7 @@ export default function Zigzag() {
                   </ul>
                   <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
                   <div className="flex items-left mb-6 mt-6  text-left">
-                    <button type="submit" className="inline-flex items-center h-10 px-20 text-indigo-100 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
+                    <button type="submit" className="inline-flex items-center h-10 px-20 text-gray-900 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
                       <span>Fazer Cotação</span>
                     </button>
                   </div>
@@ -213,7 +213,7 @@ export default function Zigzag() {
                   </ul>
                   <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
                   <div className="flex items-left mb-6 mt-6  text-left">
-                    <button type="submit" className="inline-flex items-center h-10 px-20 text-indigo-100 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
+                    <button type="submit" className="inline-flex items-center h-10 px-20 text-gray-900 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
                       <span>Fazer Cotação</span>
                     </button>
                   </div>
@@ -253,7 +253,7 @@ export default function Zigzag() {
                   </ul>
                   <a href='https://portal.segurolink.com.br/env/A8BB466882C6FFCD03387838494CCADC'>
                   <div className="flex items-left mb-6 mt-6  text-left">
-                    <button type="submit" className="inline-flex items-center h-10 px-20 text-indigo-100 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
+                    <button type="submit" className="inline-flex items-center h-10 px-20 text-gray-900 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-left">
                       <span>Fazer Cotação</span>
                     </button>
                   </div>
@@ -325,26 +325,26 @@ export default function Zigzag() {
             <p className="text-xl text-gray-400">Se tiver dúvidas sobre nossos produtos ou serviços, estamos prontos para esclarecê-las.</p>
           </div>
           
-    <form  action="https://formsubmit.co/guilhermedeamorimmedeiros@yahoo.com.br" method="POST" className=" max-w-3xl mx-auto  pb-12 md:pb-20">              
+    <form  action="https://formsubmit.co/guilherme.amorim@edu.fecap.br" method="POST" className=" max-w-3xl mx-auto  pb-12 md:pb-20">              
    <h1 className="h2 mb-4 text-center">Fale conosco ☎️</h1>
   <div className="mb-6 ">
-    <label htmlFor="name" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white ">😊 Digite seu nome:</label>
-    <input type="name" id="name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block  p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500c w-full " name="Nome" placeholder="Nome" required />
+    <label htmlFor="name" className="block mb-2 text-sm font-medium text-white ">😊 Digite seu nome:</label>
+    <input type="name" id="name" className="bg-gray-700   border-gray-600   placeholder-gray-400 text-white focus:ring-blue-500 focus:border-blue-500 text-sm  border rounded-lg  block p-2.5 w-full " name="Nome" placeholder="Nome" required />
   </div>
   <div className="mb-6">
-    <label htmlFor="email" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">✉️ Digite seu email: </label>
-    <input type="email" id="email" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 w-full" name="E-mail" placeholder="exemplo@email.com" required />
+    <label htmlFor="email" className="block mb-2 text-sm font-medium text-white">✉️ Digite seu email: </label>
+    <input type="email" id="email" className="bg-gray-700   border-gray-600   placeholder-gray-400 text-white focus:ring-blue-500 focus:border-blue-500 text-sm  border rounded-lg  block p-2.5 w-full" name="E-mail" placeholder="exemplo@email.com" required />
   </div>
   <div className="mb-6">
-    <label htmlFor="number" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">📞 Digite seu telefone: </label>
-    <input type="tel" id="phone"  className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 w-full" name="Número" placeholder="(11) 99999-9999" required />
+    <label htmlFor="number" className="block mb-2 text-sm font-medium text-white">📞 Digite seu telefone: </label>
+    <input type="tel" id="phone"  className=" bg-gray-700   border-gray-600   placeholder-gray-400 text-white focus:ring-blue-500 focus:border-blue-500 border text-sm rounded-lg block p-2.5 w-full" name="Número" placeholder="(11) 99999-9999" required />
   </div>
   <div className="mb-6">
-  <label htmlFor="number" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">🤔 Digite sua duvida: </label>
-  <textarea id="message"  className="block p-2.5 text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 w-full " name="Duvida" placeholder="Gostaria de saber mais sobre seguros..."></textarea>
+  <label htmlFor="number" className="block mb-2 text-sm font-medium text-white">🤔 Digite sua duvida: </label>
+  <textarea id="message"  className=" bg-gray-700   border-gray-600   placeholder-gray-400 text-white focus:ring-blue-500 focus:border-blue-500 block p-2.5 text-sm  rounded-lg border w-full " name="Duvida" placeholder="Gostaria de saber mais sobre seguros..."></textarea>
   </div>
   <div className="flex items-start mb-6 text-center">
-    <button type="submit" className=" inline-flex items-center h-10 px-5 text-indigo-100 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-center">
+    <button type="submit" className=" inline-flex items-center h-10 px-5 text-gray-900 transition-colors duration-150 bg-purple-600 rounded-lg focus:shadow-outline hover:bg-purple-100 mx-auto text-center">
     <span>Enviar</span>
 
     </button>
