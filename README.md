@@ -38,7 +38,7 @@ Para configurar e executar o projeto localmente, siga estas etapas:
    ```
 2. Navegue até a pasta do projeto e instale as dependências:
    ```sh
-   cd Projeto-02-Semestre-Main
+   cd Constellation-corretora
    npm install
    ```
 3. Inicie o terminal na pasta do projeto, e rode o comando:
