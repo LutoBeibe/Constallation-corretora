@@ -34,7 +34,7 @@ Para configurar e executar o projeto localmente, siga estas etapas:
 
 1. Clone o repositório do projeto:
    ```sh
-   git clone https://github.com/LutoBeibe/Projeto-02-Semestre.git
+   git clone https://github.com/LutoBeibe/Constellation-corretora.git
    ```
 2. Navegue até a pasta do projeto e instale as dependências:
    ```sh
